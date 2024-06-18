@@ -27,12 +27,12 @@
   },
   "dependencies": {
     "@jest/globals": "^29.6.4",
-    "@metamask/snaps-jest": "^0.37.4-flask.1",
+    "@metamask/snaps-jest": "^5.0.0",
     "@metamask/snaps-types": "^0.32.2",
     "@metamask/snaps-ui": "^0.32.2",
     "@swc/jest": "^0.2.29",
     "buffer": "^6.0.3",
-    "puppeteer": "^21.1.1",
+    "puppeteer": "^22.11.2",
     "ts-jest": "^29.1.1",
     "ts-node": "^10.9.1"
   },
