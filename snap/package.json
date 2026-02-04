@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@jest/globals": "^29.6.4",
-    "@metamask/snaps-jest": "^0.37.4-flask.1",
+    "@metamask/snaps-jest": "^5.0.0",
     "@metamask/snaps-types": "^0.32.2",
     "@metamask/snaps-ui": "^0.32.2",
     "@swc/jest": "^0.2.29",
